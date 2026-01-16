@@ -6,9 +6,7 @@ This folder contains the projects assigned for this module. Below are the descri
 ---
 
 ### Project Description
-This project implements a **4-for-3 pizza discount** for *Beckett Pizza Plaza*.  
-When a customer orders four pizzas, the **cheapest pizza is free**.  
-The program collects pizza prices, validates inputs, applies the discount, and shows the final total and discount percentage.
+This project implements a **4-for-3 pizza discount** for *Beckett Pizza Plaza*. When a customer orders four pizzas, the **cheapest pizza is free**. The program collects pizza prices, validates inputs, applies the discount, and shows the final total and discount percentage.
 
 ---
 
