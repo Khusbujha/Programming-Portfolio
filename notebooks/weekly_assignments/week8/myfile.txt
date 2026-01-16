@@ -1,0 +1,4 @@
+Hello, World!
+Python is Fun!
+TaTa!
+Bye Bye!!!
