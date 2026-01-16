@@ -13,5 +13,5 @@ This folder contains **weekly assignments** completed throughout the module. Eac
 This folder includes **learning outcomes** and **weekly summaries** of what we learned during the module. It provides an overview of our understanding and reflections on each week's topics.
 ---
 ### 3. `projects/`
-This folder contains the **project tasks** assigned to us for the module. This folder contains a `requirements.md` folder stating requirements to deploy each project.
+This folder contains the **project tasks** assigned to us for the module.
 ---
